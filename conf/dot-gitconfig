@@ -9,7 +9,7 @@
 	default = tracking
 
 [core]
-	excludesfile = /Users/kory/Projects/jr-config/gitignore-global
+	excludesfile = /Users/kory/Projects/jr-config/conf/gitignore-global
 	pager = less -+$LESS -R
 	editor = pico
 
