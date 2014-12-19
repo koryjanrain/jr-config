@@ -5,7 +5,7 @@ export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/Devel
 source /usr/local/bin/virtualenvwrapper.sh
 
-export PATH="$PATH:/PATH/TO/jr-config/bin"
+export PATH="$PATH:/Users/kory/Projects/jr-config/bin"
 
 git_subdir() {
     BASE=$(git rev-parse --show-toplevel 2>/dev/null)
